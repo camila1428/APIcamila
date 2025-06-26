@@ -9,13 +9,9 @@
         <module name="SpringBootJuanfe13" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="SpringBooJuanfe13" target="17" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="SpringBooJuanfe13" options="-parameters" />
       <module name="SpringBootJuanfe13" options="-parameters" />
     </option>
   </component>
